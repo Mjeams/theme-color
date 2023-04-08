@@ -1,0 +1,21 @@
+{
+    "name": "theme-color",
+    "version": "1.0.0",
+    "description": "theme color",
+    "main": "index.js",
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mjeams/theme-color.git"
+    },
+    "author": "Michael Ifide Kouadio",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mjeams/theme-color/issues"
+    },
+    "homepage": "https://github.com/Mjeams/theme-color#readme"
+}
